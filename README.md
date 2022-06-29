@@ -1,13 +1,19 @@
-# EFI-Inspiron-5458
+
+# EFI-Inspiron-5458 - macOS Monterey 12.4
 
 ![Inspiron](https://i0.wp.com/quenotebookcomprar.com.br/wp-content/uploads/2017/03/comprar-Dell-i14-5458-B40-core-i5.jpg?resize=720,340)
 
-EFI de funcional de instalação
+EFI de funcional de instalação e utilização
 
+#### Para usar siga o tutorial do Dortania e altere os MLB, ROM, SystemSerialNumber e SystemUUID
+
+[PlatformInfo Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/broadwell.html#platforminfo)
+  
 incluido EFI debug e release
 
- - Opencore 0.8.1
- - macOS Monterey 12.4
+- Opencore 0.8.1
+
+- macOS Monterey 12.4
 
 # Problemas encontrados
 
